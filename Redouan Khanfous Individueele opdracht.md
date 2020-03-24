@@ -2,7 +2,7 @@
 
 # week 2
 {
-    Niet veel gedaan aan programmeren, veel documentatie. Begin gemaakt aan het plan van aanpak, de uiteindelijke verse moet in week 3 worden getoond. Niet veel meer commentaar.
+    Niet veel gedaan aan programmeren, veel documentatie. Begin gemaakt aan het plan van aanpak, de uiteindelijke verse moet in week 3 worden getoond. Op school gewerkt tot 16.30, enige punt van reflectie is het 
 }
 # week 3
 {
